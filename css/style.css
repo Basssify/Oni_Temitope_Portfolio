@@ -255,7 +255,7 @@ img{max-width:100%;display:block}
 .tl-item .date{color:var(--muted-2);font-size:.8rem;letter-spacing:.05em;margin-bottom:8px}
 .tl-item p{color:var(--muted);font-size:.93rem}
 .skill-list{list-style:none;margin-top:24px;display:grid;gap:18px}
-.skill-list li{}
+.skill-list li
 .skill-list .top{display:flex;justify-content:space-between;font-size:.9rem;margin-bottom:7px}
 .skill-list .top b{font-weight:600}
 .skill-list .top span{color:var(--gold)}
@@ -340,3 +340,4 @@ img{max-width:100%;display:block}
   .hero-stats{gap:24px}
   .cta-band{padding:44px 24px}
 }
+ 
